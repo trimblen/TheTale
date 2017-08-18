@@ -1,0 +1,5 @@
+AddDefaultCharset OFF
+php_value memory_limit 250M
+<IfModule dir_module>
+    DirectoryIndex index.html
+</IfModule>
