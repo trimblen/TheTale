@@ -2,7 +2,7 @@
 <img src="https://static.the-tale.org/static/283/images/logo.png"></img>
 <p><img src="http://i.imgur.com/rFQZs7B.png"></img></p>
 <p>
-  This is web data extractor that has been made using The Tale API to get an information by user request. It gets all information about player stats, places, masters.\
+  This is web data extractor that has been made using The Tale API to get an information by user request. It gets all information about player stats, places, masters, etc.
   Application service was written on PHP (OOP, no frameworks used) and JavaScript programming languages.
   For more information, please, visit https://the-tale.org/, if you know Russian, as well.
 </p>  
