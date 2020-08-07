@@ -1,5 +1,5 @@
 # TheTale data extractor
-<img src="http://i.imgur.com/rJha5DB.png"></img>
+<img src="https://static.the-tale.org/static/283/images/logo.png"></img>
 <img src="http://i.imgur.com/rFQZs7B.png"></img>
 <p>
   This is web data extractor that has been made using The Tale API to get an information by user request. It gets all information about player stats, places, masters.\
